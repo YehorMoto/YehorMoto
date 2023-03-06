@@ -7,7 +7,7 @@
 
 ### The most important insights about me
 
-- :cyclone: Result-oriented
-- :mag_right: Have great attention to details
-- :iphone: Love creating pixel-perfect mobile apps
-- :microscope: Writing clear code using best practice
+- :dizzy: Self-motivated
+- :fire: Concentrated on top-notch solutions
+- :boom: Attentive to details
+- :zap: Technology maniac
